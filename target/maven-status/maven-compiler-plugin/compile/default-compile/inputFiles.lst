@@ -1,0 +1,10 @@
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/utils/CSVUtils.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/MasVendidoPorCategoriaMain.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/reducers/MasVendidoPorCategoriaReducer.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/mappers/MasVendidoPorCategoriaMapper.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/reducers/RatingReducer.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/mappers/RatingMapper.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/GananciasMain.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/reducers/GananciasPorCategoriaReducer.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/mappers/GananciasPorCategoriaMapper.java
+/home/hazahart/mapreduce/alisales/src/main/java/com/hazahart/RatingMain.java
